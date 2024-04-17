@@ -1,4 +1,4 @@
-# El asesion de la fruta
+# El asesino de la fruta
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -23,15 +23,15 @@ Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2024
+**Fecha** : 17/04/2024
 
 **Medios** (donde se tiene presencia): 
 
 
 * :octocat: (github url) 
-* ArcWeave:
-* Protopie:
-*  
+* ArcWeave: https://arcweave.com/app/project/VO64VwOlxY/play
+* Protopie: https://cloud.protopie.io/p/2c6c25e18bef3cd6eb4615a1
+*  Vev: https://a-elasesinodelafruta.vev.site/el-asesino-de-la-fruta
 
 
 
