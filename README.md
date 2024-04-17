@@ -76,8 +76,12 @@ Por último, en la plataforma de VEV hemos optado por un storytelling de la hist
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 Los medios que hemos utilizado para desarrollar nuestro proyecto de manera interactiva y atractiva son: 
+
 Vev:
+![img](Vev.png)
+
 ArcWeave:
+
 ![img](Líneadearcweave.png)
 
 Protopie:
