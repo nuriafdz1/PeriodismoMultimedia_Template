@@ -57,18 +57,19 @@ Para la ideación de nuestro proyecto hemos realizado sesiones de brainstorming 
 Creamos esta idea con la oportunidad principal de poner en práctica una idea creativa y aplicarla a los medios online como los que hemos visto en clase. A través de las herramientas pudimos poner en práctica los conocimeintos de creación multimedia y así, cubrir la necesidad de adaptar las historias de true crime como la del asesino de la fruta a los meidos digitales y contar historias de manera interactiva e innovadora. 
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+Nuestra motivación principal se basaba en el ámbito del true crime pero aplicándole un giro cómico con el papel de las pelusas como narradoras de la historia. Nos parecía interesante poder desarrollar la narración de manera interactiva y darle al usuario la oportunidad de jugar y recopilar pistas para descubrir al asesino.
 
 **Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+Como público objetivo podemos enfocar el proyecto hacia una audiencia que disftura de las historias de true crime, novela negra pero siempre con un tono irónico y cómico. A su vez, nos centramos en un público que tenga acceso directo a los medios digitales y tengan un conocimiento básico sobre el mundo multimedia para poder navegar a través de nuestro proyecto. Por otra parte, este poryecto puede resultar útil en el ámbito lúdico sobre todo en relación a juegos de estilo similar, como los escape rooms o juegos de invetsigación.
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
+El arcweave lo empleamos principalmnete como narración "fishbone" que permite al usuario a navegar a través de la historia de manera independiente pero a la vez limitada. De esta manera la historia permite invetsigar varias opciones y pistas que guían al usuario hasta el final de la historia. De esta manera arcweave crea la narración en un juego interactivo. 
+Por otra lado, el Protopie lo hemos enfocado como nuestro proyecto principal. En este hemos creado una narración aún más interactiva en la que el usuario debe emplear sus propios 5 sentidos para impulsar la hsiotria a avanzar. De esta manera el Protopie permite una narración más divertida, interactiva y perosnal en la que el usuario viaja a través de la historia a su propio ritmo y para su disfrute. 
+Por último, en la plataforma de VEV hemos optado por un storytelling de la historia estilo scrolling. Es así como el usuario disfruta de una narración lineal, tranquila y a un ritmo más pausado.
 
 (ejemplos/alternativas) 
 * documental interactivo 
 * videojuego 
-* ... 
-
-
-![gato](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg)
 
 
 ### Etapa 2: Prototipar / productos 
