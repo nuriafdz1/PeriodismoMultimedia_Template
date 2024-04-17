@@ -17,9 +17,9 @@ Univesidad de Granada
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** (frase motivadora/inspiradora): Entre las sombras y las pelusas, la verdad se esconde. ¡Descubre el secreto detrás de la fruta!
 
-**Hashtag**  ___
+**Hashtag**  #ElSueltaLaFrutaNosotrasLaVerdad
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
