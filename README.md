@@ -96,21 +96,28 @@ Protopie:
 
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
 
-* Test con usuarios (...) 
-* ... 
-
-
-
+* Test con usuarios/compañeros de clase
+* Valoración de futuro sobre el proyecto y sus posibilidades
+* Elaboración de las propuestas a mayor nivel
+* Estudio de mercado para evaluar su alcance
 
 
 ### Conclusiones y trabajo futuro
 
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Grado de consecución del proyecto
 
+En este trabajo hemos podido probar y testear distintas herramientas que nos han aportado conocimientos nuevos sobre la creación multimedia y mulitplataforma y nos ha permitido concer las posibilidades creativas en el mundo digital. 
+
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… )
+  Los mayores problemas u obstáculos ha sido el proceso de elegir las plataformas y adecuarlas a nuetsra historia. El adaptar la historia para que se aplique a las condiciones de las herramientas y poder hacerla innovadora y entretenida. A su vez, las primeras tomas de ocntacto con las plataformas nos resultó un tanto intimidante al principio pero resultó ser divertido y enriquecedor.
+   
+* Propuestas de mejora (por qué consideras que merece la pena continuar)
+  Este proyecto presenta muchas opciones para seguir elaborando la narración y hacerla tanto más seria y oscura como seguir investigando su lado más cómico y lúdico. Consideramos que las oportunidades para crear mejores elaboraciones sobre esta historia y adaptarla posiblemente a un escape room real en el mundo físico.
+  
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+  
+Creemos que este proyecto puede crear nuevas oportunidades colaborativas con ámbito lúdico y de entretenimiento adaptándolo a juegos de mesa o juegos como los escape rooms. 
 
 
 ----
@@ -121,12 +128,7 @@ Protopie:
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
 
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.) 
 
 
 
