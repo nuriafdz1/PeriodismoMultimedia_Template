@@ -53,6 +53,7 @@ Para la ideación de nuestro proyecto hemos realizado sesiones de brainstorming 
 
 
 **Necesidad/oportunidad** 
+Creamos esta idea con la oportunidad principal de poner en práctica una idea creativa y aplicarla a los medios online como los que hemos visto en clase. A través de las herramientas pudimos poner en práctica los conocimeintos de creación multimedia y así, cubrir la necesidad de adaptar las historias de true crime como la del asesino de la fruta a los meidos digitales y contar historias de manera interactiva e innovadora. 
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
