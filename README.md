@@ -80,7 +80,7 @@ Vev:
 ArcWeave:
 Protopie:
 
-![img](Captura de Pantalla 2024-04-17 a las 17.28.09.png)
+![img](ololeoleole.png)
 ![img](Unknown.jpeg)
 
 
