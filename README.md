@@ -44,12 +44,11 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 ### Etapa 1: Ideación de proyecto 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Para la ideación de nuestro proyecto hemos realizado sesiones de brainstorming en las clases con los post its. Entre las ideas propuestas nos llamó la atención la de un asesino que dejaba fruta tras cada asesinato. Es así como combinamos la idea del asesino de la fruta con nuestra idea de las pelusas que cuentan los secretos e historias.
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* @
 
 
 **Necesidad/oportunidad** 
