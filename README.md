@@ -50,7 +50,8 @@ Para la ideación de nuestro proyecto hemos realizado sesiones de brainstorming 
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @
+* https://pitchfork.com/features/cover-story/reader/bat-for-lashes/
+* http://www.thewildernessdowntown.com/
 
 
 **Necesidad/oportunidad** 
@@ -90,9 +91,6 @@ Protopie:
 
 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
-
-
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -112,18 +110,6 @@ Protopie:
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-
-
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de me
-
-(...)
-
-
-
 
 
 
