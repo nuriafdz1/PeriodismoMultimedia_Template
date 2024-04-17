@@ -15,7 +15,8 @@ Univesidad de Granada
 
 **Resumen** : En una ciudad atormentada por una serie de asesinatos macabros, las pelusas escondidas en las sombras de las escenas del crimen se convierten en testigos inadvertidos pero poderosos. Mientras el misterioso asesino en serie deja una firma peculiar: fruta fresca junto a cada víctima, las diminutas pelusas se organizan en un susurro colectivo decididas a desentrañar la identidad del culpable. Guiadas por su lema "El suelta la fruta, nosotras la verdad", estas pequeñas guardianas de la verdad se embarcan en una búsqueda clandestina para revelar la identidad del asesino y llevar justicia a la ciudad.
 
-**logotipo** :  ________
+**logotipo** : 
+[img] (Unknown.jpeg)
 
 **Slogan** (frase motivadora/inspiradora): Entre las sombras y las pelusas, la verdad se esconde. ¡Descubre el secreto detrás de la fruta!
 
