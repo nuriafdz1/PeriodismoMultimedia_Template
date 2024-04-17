@@ -74,14 +74,15 @@ Creamos esta idea con la oportunidad principal de poner en práctica una idea cr
 ### Etapa 2: Prototipar / productos 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Los medios que hemos utilizado para desarrollar nuestro proyecto de manera interactiva y atractiva son: 
+Vev:
+ArcWeave:
+Protopie:
+
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
 
-* publicidad: banner (... ) 
-
-* ...
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
